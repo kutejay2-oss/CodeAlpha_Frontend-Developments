@@ -1,1 +1,1 @@
-# CodeAlpha_Frontend-Developments
+# CodeAlpha_Frontend-Developments Task1 on Image gallery
